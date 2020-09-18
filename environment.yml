@@ -45,7 +45,5 @@ dependencies:
   - scipy=1.5.0
   - seaborn=0.10.1
   - setuptools=49.2.0
-  - simplegeneric=0.8.1
-  - singledispatch=3.4.0.3
   - yaml=0.2.5
 prefix: /Users/rademack/opt/anaconda3
